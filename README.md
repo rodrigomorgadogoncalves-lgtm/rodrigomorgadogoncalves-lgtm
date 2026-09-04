@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rodrigo Morgado! 👋
 
-<!--
-**rodrigomorgadogoncalves-lgtm/rodrigomorgadogoncalves-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about extracting value and actionable insights from data. I am currently developing my Master's thesis in **Data Science and Advanced Analytics** at NOVA IMS, backed by a strong quantitative foundation from my Bachelor's degree in **Mathematics Applied to Economics and Management** at ISEG.
 
-Here are some ideas to get you started:
+I thrive on transforming complex business challenges into analytical solutions, always striving to combine technical rigor with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+* 🎓 Finishing my Master's Thesis in Data Science (NOVA IMS).
+* 📈 Strong background in Mathematics and Statistics (ISEG).
+* 💡 Areas of interest: Business Analysis, Machine Learning, Data Science, Reinforcement Learning.
+* 💼 Currently open to new opportunities in the data field (Data Scientist / Data Analyst).
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL, R, C++
+* **Data Science & ML:** Numpy, Pandas, Scikit-Learn, XGBoost
+* **Data Visualization & BI:** Microsoft Fabric, Power BI, Matplotlib, Celonis
+* 
+
+## 📫 How to reach me
+* **LinkedIn:** www.linkedin.com/in/rodrigomorgado777
+* **Email:** rodrigomorgadogoncalves@gmail.com
